@@ -1,1 +1,0 @@
-"# Animated Slider Design" 

@@ -1,1 +1,1 @@
-"# Slider Design" 
+"# Animated Slider Design" 
